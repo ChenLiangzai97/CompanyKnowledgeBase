@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+workspace.local.md
+.DS_Store
